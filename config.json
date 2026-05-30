@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrncrypt",
+        "uuid": 3611602,
+        "checksum": "z0mvf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
